@@ -17,7 +17,9 @@ Or use plain Markdown:
 - Decisions: note framing, lighting, cropping.
 
 ## Reflection
-Write 200–300 words reflecting on selfie and identity.
+When I look at the first AI-generated selfie, I recognize myself in the surface-level details: my glasses, long hair, and the calm, composed expression. These features reflect how I often present myself in photos and how others might easily identify me. The image feels familiar in a visual sense, capturing a clean and socially acceptable version of me that aligns with common expectations of a “selfie.” In this way, the AI successfully reproduces my outward appearance and reduces my identity to recognizable traits.
+However, I do not fully see myself beyond this surface. The image feels flattened and overly polished, as if complexity has been smoothed away. My personality, emotions, and lived experiences are missing. There is no trace of uncertainty, depth, or contradiction—qualities that are central to how I understand myself. The AI presents a version of me that feels generic, as though it could easily belong to someone else with similar features. This absence highlights how AI systems prioritize visual patterns over inner identity.
+The second image exaggerates this distance even more. Through distortion and heavy stylization, my face becomes less human and more illustrative, almost symbolic. While I intentionally intervened to disrupt realism, the result emphasizes how easily my identity can be transformed into something aesthetic rather than personal. In this version, I see myself less as an individual and more as data being reshaped. Together, the images reveal how AI can represent me visually while simultaneously erasing the complexity that makes me who I am.
 
 ## Attribution & AI Use
 - Tools used:
