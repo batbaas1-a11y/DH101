@@ -22,7 +22,7 @@ However, I do not fully see myself beyond this surface. The image feels flattene
 The second image exaggerates this distance even more. Through distortion and heavy stylization, my face becomes less human and more illustrative, almost symbolic. While I intentionally intervened to disrupt realism, the result emphasizes how easily my identity can be transformed into something aesthetic rather than personal. In this version, I see myself less as an individual and more as data being reshaped. Together, the images reveal how AI can represent me visually while simultaneously erasing the complexity that makes me who I am.
 
 ## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+- Tools used: Stable Diffusion(via web interface), Github, Visual Studio Code.
+- AI prompts (summary): I uploaded a real photo of myself and prompted the AI to generate a stylized selfie based on my facial features, glasses, and overall appearance. For the second image, I prompted the AI to exaggerate colors, lines, and textures to create a more distorted and graphic version.
+- What AI generated: The AI generated both selfie images, including facial structure, coloring, and stylistic effects.
+- What you changed or decided: I chose the original photo, selected and refined the prompts, and decided how the second image would be distorted to emphasize stylization and loss of realism. I also selected which images to include and how to frame them within the assignment.
