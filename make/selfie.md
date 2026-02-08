@@ -12,9 +12,9 @@ Or use plain Markdown:
 ![My selfie](assets/selfie.jpg)
 
 ## Process Notes
-- How I made this: describe your process here.
-- Tools used: list tools (camera, phone, editing apps).
-- Decisions: note framing, lighting, cropping.
+- How I made this: I uploaded a real photo of myself into an AI image generator and used prompts to create a stylized AI “selfie.” After generating the first image, I created a second version by prompting the AI to exaggerate visual elements such as color, texture, and line work in order to distort the image.
+- Tools used: Stable Diffusion, Github, Visual Studio Code.
+- Decisions: I chose a straightforward selfie with neutral lighting so my facial features were clearly visible. For the second image, I intentionally increased distortion and stylization to move the image further away from realism and emphasize the AI’s role in reshaping my identity.
 
 ## Reflection
 When I look at the first AI-generated selfie, I recognize myself in the surface-level details: my glasses, long hair, and the calm, composed expression. These features reflect how I often present myself in photos and how others might easily identify me. The image feels familiar in a visual sense, capturing a clean and socially acceptable version of me that aligns with common expectations of a “selfie.” In this way, the AI successfully reproduces my outward appearance and reduces my identity to recognizable traits.
