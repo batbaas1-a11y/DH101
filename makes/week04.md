@@ -8,8 +8,6 @@ This comic explores how AI can sound not like you when used on its own for every
 </p>
 
 
-![My comic](assets/comic)
-
 ## Process Notes
 - How I made this: I first outlined the idea of a student interacting with AI while trying to write a story. I sketched a 6-panel progression showing emotional shifts: uncertainty, confidence, doubt, confrontation, revision, and resolution. I then used AI to generate dialogue for one panel and edited it to better reflect my own perspective.
 - Tools used: AI image generator (for comic layout and visuals), ChatGPT (for dialogue drafting), VS Code (for embedding and formatting).
