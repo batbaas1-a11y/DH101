@@ -1,8 +1,6 @@
 # Comic
 
 ## The Artifact
-Add your comic image below by placing a file at 
- and keeping this markdown link:
 
 <p align="center">
   <img src="assets/comic.png" alt="My comic" style="max-width:800px;">
@@ -10,7 +8,7 @@ Add your comic image below by placing a file at
 
 Or use plain Markdown:
 
-![My comic](assets/comic.jpg)
+![My comic](assets/comic.png)
 
 ## Process Notes
 - How I made this: I first outlined the idea of a student interacting with AI while trying to write a story. I sketched a 6-panel progression showing emotional shifts: uncertainty, confidence, doubt, confrontation, revision, and resolution. I then used AI to generate dialogue for one panel and edited it to better reflect my own perspective.
