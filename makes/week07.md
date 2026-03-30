@@ -1,8 +1,7 @@
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact
-**Map Title:** Powering AI: The Energy Infrastructure Behind Microsoft and Meta Data Centers
-https://www.google.com/maps/d/u/0/edit?mid=1QE-LgplSV8vcufC7OeT0voyGa8Asm5A&usp=sharing
+**Map Title:** [Powering AI: The Energy Infrastructure Behind Microsoft and Meta Data Centers](https://www.google.com/maps/d/u/0/edit?mid=1QE-LgplSV8vcufC7OeT0voyGa8Asm5A&ll=24.836857797000615%2C-9.225737949999996&z=3)
 
 - This digital map visualizes the hidden infrastructure that powers artificial intelligence systems operated by Microsoft and Meta. While AI often appears to be purely digital, it relies on a vast network of physical systems including corporate headquarters, data centers, and large energy infrastructures such as solar farms, wind farms, nuclear plants, and water-based cooling systems.
 
