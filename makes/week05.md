@@ -1,6 +1,7 @@
 # Week 5 – GIF & Remix Culture
 
 ## The Artifact
+This GIF shows 
 ![Nick Young AI Neutral Remix](assets/images/Nick-Young.gif)
 
 ## Process Notes
