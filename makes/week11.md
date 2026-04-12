@@ -5,6 +5,7 @@ The infographic explores the harm of content moderation that it has on people an
 [View my infographic](assets/images/behind-the-screen.png)
 
 ## Process Notes
+
 How did you make this?
 - I used Piktochart to create the infographic.
 What tools did you use?
