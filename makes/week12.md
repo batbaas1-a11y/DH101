@@ -1,3 +1,8 @@
+---
+title: Week 12 – AI & Ecology
+layout: make
+---
+
 # Week 12 – AI & Ecology
 
 ## The Artifact

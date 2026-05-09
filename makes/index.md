@@ -14,6 +14,11 @@ Welcome to the DH101 project gallery. Each card below links to a weekly make or 
 </article>
 
 <article class="make-card">
+  <h3><a href="/makes/week02.html">Week 2 – Project Placeholder</a></h3>
+  <p>A placeholder page for the Week 2 make that keeps the portfolio navigation complete.</p>
+</article>
+
+<article class="make-card">
   <h3><a href="/makes/week03.html">Week 3 – Selfie & Identity</a></h3>
   <p>A reflection on AI, representation, and how images construct identity.</p>
 </article>

@@ -1,3 +1,7 @@
+---
+title: Week 06 Reflection
+layout: default
+---
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 6 Reflection
