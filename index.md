@@ -41,15 +41,15 @@ layout: default
       <p>View every weekly project, special assignments, and digital artifacts from DH101.</p>
     </article>
     <article class="page-card">
-      <h3><a href="reflections/week01.html">Reflections</a></h3>
+      <h3><a href="reflections/index.html">Reflections</a></h3>
       <p>Read weekly essays about authorship, ethics, AI futures, and the cultural work of digital making.</p>
     </article>
     <article class="page-card">
-      <h3><a href="/curriculum.html">Curriculum</a></h3>
+      <h3><a href="curriculum.html">Curriculum</a></h3>
       <p>See the skills I learned in DH101, from AI literacy to web design and research ethics.</p>
     </article>
     <article class="page-card">
-      <h3><a href="/ai-humanity.html">AI & Humanity</a></h3>
+      <h3><a href="ai-humanity.html">AI & Humanity</a></h3>
       <p>Read my statement on AI, human values, and the ethical considerations guiding this portfolio.</p>
     </article>
   </div>

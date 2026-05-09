@@ -59,7 +59,7 @@ Welcome to the DH101 project gallery. Each card below links to a weekly make or 
 </article>
 
 <article class="make-card">
-  <h3><a href="/makes/week11.html">Week 11 – AI & Labor</a></h3>
+  <h3><a href="week11.html">Week 11 – AI & Labor</a></h3>
   <p>Reflecting on the labor behind AI systems and the people who build them.</p>
 </article>
 
@@ -69,7 +69,7 @@ Welcome to the DH101 project gallery. Each card below links to a weekly make or 
 </article>
 
 <article class="make-card">
-  <h3><a href="/makes/week13.html">Week 13 – Futures of AI & Humanity</a></h3>
+  <h3><a href="week13.html">Week 13 – Futures of AI & Humanity</a></h3>
   <p>Speculating about future regulation, transparency, and the ethical path forward.</p>
 </article>
 
@@ -79,7 +79,7 @@ Welcome to the DH101 project gallery. Each card below links to a weekly make or 
 </article>
 
 <article class="make-card">
-  <h3><a href="/makes/text-analysis.html">Text Analysis</a></h3>
+  <h3><a href="text-analysis.html">Text Analysis</a></h3>
   <p>An analysis of media text using Voyant and GPT to compare machine reading with human interpretation.</p>
 </article>
 

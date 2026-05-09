@@ -1,5 +1,5 @@
 title: DH101 Portfolio
-baseurl: ""
+baseurl: "/DH101"
 url: ""
 markdown: kramdown
 theme: minima
