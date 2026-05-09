@@ -9,12 +9,12 @@ This collection includes weekly responses to DH101 prompts about AI, authorship,
 <div class="make-grid">
 
 <article class="make-card">
-  <h3><a href="/reflections/week01.html">Week 1 Reflection</a></h3>
+  <h3><a href="week01.html">Week 1 Reflection</a></h3>
   <p>Thinking about authorship, agency, and the role of tools in creative work.</p>
 </article>
 
 <article class="make-card">
-  <h3><a href="/reflections/week02.html">Week 2 Reflection</a></h3>
+  <h3><a href="week02.html">Week 2 Reflection</a></h3>
   <p>Exploring how digital patterns shape what we call human experience.</p>
 </article>
 

@@ -4,7 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+    {% assign link_prefix = "" %}
+    {% if page.url contains '/makes/' or page.url contains '/reflections/' or page.url contains '/pages/' %}
+      {% assign link_prefix = '../' %}
+    {% endif %}
+    <link rel="stylesheet" href="{{ link_prefix }}style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -13,15 +17,15 @@
     <div class="page-shell">
       <header class="site-header">
         <div class="site-brand">
-          <a href="{{ '/' | relative_url }}">DH101 Portfolio</a>
+          <a href="{{ link_prefix }}index.html">DH101 Portfolio</a>
         </div>
         <nav class="site-nav">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/makes/' | relative_url }}">Makes</a>
-          <a href="{{ '/reflections/' | relative_url }}">Reflections</a>
-          <a href="{{ '/curriculum.html' | relative_url }}">Curriculum</a>
-          <a href="{{ '/ai-humanity.html' | relative_url }}">AI & Humanity</a>
-          <a href="{{ '/about.html' | relative_url }}">About</a>
+          <a href="{{ link_prefix }}index.html">Home</a>
+          <a href="{{ link_prefix }}makes/index.html">Makes</a>
+          <a href="{{ link_prefix }}reflections/index.html">Reflections</a>
+          <a href="{{ link_prefix }}curriculum.html">Curriculum</a>
+          <a href="{{ link_prefix }}ai-humanity.html">AI & Humanity</a>
+          <a href="{{ link_prefix }}about.html">About</a>
         </nav>
       </header>
 

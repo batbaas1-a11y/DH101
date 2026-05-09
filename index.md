@@ -11,23 +11,23 @@ layout: default
   <h2>Featured Digital Humanities Projects</h2>
   <div class="featured-grid">
     <article class="make-card">
-      <h3><a href="/makes/week01.html">Week 1 – Reverse Engineering</a></h3>
+      <h3><a href="makes/week01.html">Week 1 – Reverse Engineering</a></h3>
       <p>Exploring how digital tools decode hidden systems and reveal underlying patterns.</p>
     </article>
     <article class="make-card">
-      <h3><a href="/makes/week03.html">Week 3 – Selfie & Identity</a></h3>
+      <h3><a href="makes/week03.html">Week 3 – Selfie & Identity</a></h3>
       <p>A critical look at AI-generated identity and how visual systems shape self-representation.</p>
     </article>
     <article class="make-card">
-      <h3><a href="/makes/week04.html">Week 4 – Comic & Storytelling</a></h3>
+      <h3><a href="makes/week04.html">Week 4 – Comic & Storytelling</a></h3>
       <p>A comic that visualizes the tension between AI support and authorial control in narrative work.</p>
     </article>
     <article class="make-card">
-      <h3><a href="/makes/week07.html">Week 7 – Mapping AI Worlds</a></h3>
+      <h3><a href="makes/week07.html">Week 7 – Mapping AI Worlds</a></h3>
       <p>Mapping networks of power and knowledge to visualize relationships between infrastructure, policy, and data.</p>
     </article>
     <article class="make-card">
-      <h3><a href="/makes/week12.html">Week 12 – AI & Ecology</a></h3>
+      <h3><a href="makes/week12.html">Week 12 – AI & Ecology</a></h3>
       <p>A project that connects AI systems with environmental impact and sustainability questions.</p>
     </article>
   </div>
@@ -37,11 +37,11 @@ layout: default
   <h2>Navigate the Portfolio</h2>
   <div class="skill-grid">
     <article class="page-card">
-      <h3><a href="/makes/">Makes</a></h3>
+      <h3><a href="makes/index.html">Makes</a></h3>
       <p>View every weekly project, special assignments, and digital artifacts from DH101.</p>
     </article>
     <article class="page-card">
-      <h3><a href="/reflections/week01.html">Reflections</a></h3>
+      <h3><a href="reflections/week01.html">Reflections</a></h3>
       <p>Read weekly essays about authorship, ethics, AI futures, and the cultural work of digital making.</p>
     </article>
     <article class="page-card">
