@@ -1,3 +1,8 @@
+---
+title: Week 7 – Mapping AI Worlds
+layout: make
+---
+
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact

@@ -1,3 +1,8 @@
+---
+title: Week 3 – Selfie & Identity
+layout: make
+---
+
 # Week 3 – Selfie & Identity
 
 ## The Artifact

@@ -1,3 +1,10 @@
+---
+title: Text Analysis
+layout: make
+---
+
+# Text Analysis
+
 ## The Artifact
 Article Title: Casey Means Hearing and Trump's State of the Union Speech News
 Source: New York Times

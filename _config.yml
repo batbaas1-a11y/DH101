@@ -1,0 +1,25 @@
+title: DH101 Portfolio
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+plugins: []
+
+collections: {}
+
+exclude:
+  - README.md
+  - .git/
+  - .github/
+  - ai-log/
+  - _config.yml
+  - pages/
+  - make/
+  - node_modules/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default

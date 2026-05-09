@@ -1,3 +1,8 @@
+---
+title: Comic
+layout: make
+---
+
 # Comic
 
 ## The Artifact

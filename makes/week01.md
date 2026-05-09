@@ -1,3 +1,8 @@
+---
+title: Week 1 – Reverse Engineering
+layout: make
+---
+
 # Week 1 – Reverse Engineering
 
 ## The Artifact

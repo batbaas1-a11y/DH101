@@ -1,3 +1,8 @@
+---
+title: Week 6 – Text & Distant Reading
+layout: make
+---
+
 # Week 6 – Text & Distant Reading
 
 ## The Artifact

@@ -1,3 +1,8 @@
+---
+title: Week 10 – Games & Play
+layout: make
+---
+
 # Week 10 – Games & Play
 
 ## The Artifact
