@@ -8,9 +8,9 @@ layout: make
 ## The Artifact
 This project explores how AI interprets identity through image generation. Using a real selfie, I created stylized and distorted AI versions of myself to examine how AI recognizes faces through patterns and aesthetics rather than personal identity. The project highlights the tension between human individuality and algorithmic representation. 
 <div class="selfie-gallery">
-  <img src="../make/assets/Original Selfie.jpeg" alt="Original selfie">
-  <img src="../make/assets/First AI generated photo.png" alt="First AI generated selfie">
-  <img src="../make/assets/Second AI generated photo.png" alt="Second AI generated selfie">
+  <img src="assets/Original Selfie.jpeg" alt="Original selfie">
+  <img src="assets/First AI generated photo.png" alt="First AI generated selfie">
+  <img src="assets/Second AI generated photo.png" alt="Second AI generated selfie">
 </div>
 
 ## Process Notes
