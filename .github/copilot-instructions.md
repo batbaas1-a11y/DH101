@@ -46,7 +46,7 @@ All weekly makes follow this standard:
 - **Heading order:** No skipping levels (don't jump from # to ###)
 - **Line breaks:** Two spaces at end of line for soft breaks
 
-**Reference:** [pages/markdown-guide.md](../pages/markdown-guide.md) contains full formatting guide and weekly reflection template.
+
 
 ### 4. Reflection Prompts (Weekly Themes)
 Weeks 1–13 explore distinct AI topics:
@@ -95,5 +95,5 @@ Future weeks should follow the established template. Copy structure from [makes/
 ## Files to Understand the Course Philosophy
 - [make/selfie.md](../make/selfie.md) — Exemplary AI reflection + detailed process
 - [makes/comic.md](../makes/comic.md) — Comic storytelling with AI collaboration analysis
-- [pages/markdown-guide.md](../pages/markdown-guide.md) — Writing standards for this repo
+
 - [pages/how-i-use-ai.md](../pages/how-i-use-ai.md) — Student statement on AI integration approach
