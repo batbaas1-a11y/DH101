@@ -1,13 +1,13 @@
 :root {
-  --bg: #fef7f7;
-  --surface: #ffffff;
-  --surface-strong: #f8f0f0;
-  --text: #3d2b2b;
-  --muted: #8b7b7b;
-  --accent: #e6a5a5;
-  --accent-soft: #f5d5d5;
-  --border: rgba(230, 165, 165, 0.12);
-  --shadow: 0 24px 80px rgba(230, 165, 165, 0.08);
+  --bg: #fff4f8;
+  --surface: #fff8f8;
+  --surface-strong: #fceaea;
+  --text: #8b5a6b;
+  --muted: #b88a9a;
+  --accent: #d2a5a5;
+  --accent-soft: #f8c8d0;
+  --border: rgba(210, 165, 165, 0.15);
+  --shadow: 0 24px 80px rgba(210, 165, 165, 0.08);
   --radius: 26px;
 }
 
@@ -47,7 +47,7 @@ a:hover {
   gap: 16px;
   padding: 24px 28px;
   margin-bottom: 36px;
-  background: rgba(255, 245, 245, 0.92);
+  background: rgba(255, 244, 248, 0.92);
   border: 1px solid var(--border);
   border-radius: 28px;
   backdrop-filter: blur(10px);
@@ -86,7 +86,7 @@ a:hover {
 .hero {
   padding: 42px 34px;
   border-radius: 32px;
-  background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(239,245,255,0.95));
+  background: linear-gradient(180deg, rgba(255,248,248,0.96), rgba(254,244,248,0.95));
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
 }
@@ -121,7 +121,7 @@ a:hover {
 .feature-card:hover,
 .page-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 32px 100px rgba(230, 165, 165, 0.15);
+  box-shadow: 0 32px 100px rgba(210, 165, 165, 0.15);
 }
 
 .section-grid,
@@ -224,7 +224,7 @@ a:hover {
   margin: 24px 0;
   padding: 18px 22px;
   border-left: 4px solid var(--accent);
-  background: #f5f8ff;
+  background: #fef4f8;
   color: var(--muted);
 }
 
