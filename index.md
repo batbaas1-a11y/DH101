@@ -3,7 +3,7 @@ title: DH101 Portfolio
 layout: default
 ---
 <div class="hero">
-  <h1>Digital Humanities Portfolio</h1>
+  <h1>Digital Humanities Portfolio ♡</h1>
   <p>Welcome to my DH101 portfolio. Here I document weekly digital humanities projects that combine AI ethics, storytelling, data analysis, mapping, and web design. Explore my makes, reflections, and the skills I developed while thinking critically about technology and culture.</p>
 </div>
 
