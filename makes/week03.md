@@ -6,13 +6,23 @@ layout: make
 # Week 3 – Selfie & Identity
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+This project analyzes using the Google Ngram Viewer, a tool that creates line-graph visualizations showing how often words or phrases appear in digitized books over time. By typing a word or phrase into the system, the viewer instantly generates a graph from millions of scanned texts, transforming large collections of books into visual representations of language trends.
+<a href="https://books.google.com/ngrams/" target="_blank" class="project-button">
+  Open Google Ngram Viewer ♡
+</a>
 
 ## Process Notes
 How did you make this?
+- Google Ngram Viewer line-graph visualizations that show how frequently words or
+phrases appear in Google’s digitized books over time. The output is a temporal
+visualization of language trends. For the user, the experience is fast. You type in a word,
+and the system instantly turns millions of books into a clean graph.
 What tools did you use?
+- The system relies on OCR (optical character recognition), large-scale text processing,
+statistical normalization, and automated visualization. While it does not use generative
+AI, it uses algorithmic aggregation and filtering to produce results.
 What decisions did you make?
+- 
 
 ## Reflection
 In this project, “making” is not about producing literary works or interpreting individual texts, but
@@ -35,7 +45,7 @@ where the work of critical analysis is to question how the outputs were generate
 place.
 
 ## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+- Tools used: Google Ngram Viewer, ChatGPT
+- AI prompts (summary): Asked ChatGPT to help summarize and organize my analysis into clearer sections for the website portfolio.
+- What AI generated: Structural organization, wording suggestions, and editing support.
+- What you changed or decided: I selected the project focus, analyzed the system critically, and revised the final reflection and interpretation myself.
